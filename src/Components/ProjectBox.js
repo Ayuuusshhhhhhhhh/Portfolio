@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 const ProjectBox = ({ projectName }) => {
   const desc = {
     StockPortfolio: "This website is a perfect example of a full stack application. It is a responsive website which I have made to understand the working of Typescript.",
-    StockPortfolio: "https://github.com/Ayuuusshhhhhhhhh/stock-portfolio-website",
+    StockPortfolioGithub: "https://github.com/Ayuuusshhhhhhhhh/stock-portfolio-website",
 
     ChatApp: "A website which allows a group of 5-10 people to log in and chat together. It was destined to be the minor project at my college. It was built using Javascript on the frontend and Socket.io on the backend, helping me to understand the basics and advanced concepts of Socket.io and server connections.",
     ChatAppGithub: "https://github.com/Ayuuusshhhhhhhhh/chat-app",
