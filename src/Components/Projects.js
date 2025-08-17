@@ -6,7 +6,7 @@ const Projects = () => {
     <div>
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
-        <ProjectBox projectName="E_commerce" />
+        <ProjectBox projectName="StockPortfolio" />
         <ProjectBox projectName="EmailSubscription" />
         <ProjectBox projectName="ChatApp" />
       </div>
